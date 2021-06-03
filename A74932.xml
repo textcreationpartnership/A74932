@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The copy of a petition presented to his Highness the Lord Protector, by Bassett Jones of Lanmihangel in the county of Glamorgan, against  Colonel Philip Jones, one of his Highness council. With His Highness gracious order thereupon; the said Colonel's answer, and the reply of the said Bassett. To which, by way of an apendix, are added such papers as were made use of in the cause which any way tend to the clearing of the truth thereof.</title>
+            <author>Jones, Bassett.</author>
+         </titleStmt>
+         <extent>Approx. 59 KB of XML-encoded text transcribed from 13 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A74932</idno><idno type="EEBO-CITATION">99866643</idno>
+  <idno type="VID">167921</idno>
+  <idno type="EEBO-PROQUEST">2240942690</idno>
+  
+            <idno type="STC">Wing J924</idno>
+            <idno type="STC">Thomason E809_26</idno>
+            <idno type="STC">ESTC R207602</idno>
+            <idno type="PROQUEST">99866643</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99866643e"/>
+            <note>(EEBO-TCP ; phase 2, no. A74932)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 167921)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 123:E809[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The copy of a petition presented to his Highness the Lord Protector, by Bassett Jones of Lanmihangel in the county of Glamorgan, against  Colonel Philip Jones, one of his Highness council. With His Highness gracious order thereupon; the said Colonel's answer, and the reply of the said Bassett. To which, by way of an apendix, are added such papers as were made use of in the cause which any way tend to the clearing of the truth thereof.</title>
+                  <author>Jones, Bassett.</author>
+               </titleStmt>
+               <extent>[2], 24 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>Printed in the year, 1654.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Annotation on Thomason copy: "Sept: 8th".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Jones, Philip, 1618?-1674.</term>
+               <term type="geographic_name">Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+               <term type="geographic_name">Glamorgan (Ireland) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:167921:1"/>
+            <p>The Copy of a PETITION Presented to his Highness the LORD PROTECTOR, BY BASSETT JONES of Lanmihangel in the County of Glamorgan, <hi>Against</hi> Colonel <hi>Philip Jones,</hi> one of his Highness Council. With <hi>His Highness Gracious Order thereupon; The said Colonel</hi>'s <hi>Answer, and The Reply of the said</hi> Bassett.</p>
+            <p>To which, by way of an Apendix, are added such Papers as were made use of in the Cause which any way tend to the clearing of the Truth thereof.</p>
+            <q>
+               <p>Quod licet vile est, &amp; animus errore Lentus injurias diligit.</p>
+               <bibl>
+                  <hi>Petron. Arb.</hi>
+               </bibl>
+            </q>
+            <p>Printed in the Year, 1654.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:167921:2"/>
+            <p>THe Letters and Figures in the Margent are for Directi<g ref="char:EOLhyphen"/>ons, to the place and Page of proof for that assertion, Noted [*.] The annexed being true Copies of those Originals which the <hi>Petitioner</hi> shall produce upon demand.</p>
+            <closer>
+               <signed>Ba. Jones.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb n="1" facs="tcp:167921:2"/>
+            <opener>
+               <salute>To his Highness OLIVER LORD PROTECTOR,</salute>
+            </opener>
+            <head>The Humble Petition of <hi>Basset Jones,</hi> in the behalf of his oppressed Father.</head>
+            <p>
+               <hi>Sheweth,</hi>
+            </p>
+            <p>
+               <seg rend="decorInit">T</seg>Hat understanding by your Secretary, how Col. <hi>Philip Jones</hi> affirmeth he took no other course with your Petitioners Father, than other Purchasers usually did to recover their own; Your Petitioner is necessitated to this second address; Humbly offering to undergo the extreamest of punishments, if he cannot Demonstrate to your Highness, that Col. <hi>Jones</hi> having purchased but<note n="*" place="margin">Fol. <hi>10. B.</hi>
+               </note> the reserved Rent hath swept away the possession of the whole. By weapons, such as your Petitioner humbly conceives, the consciences of ordinary pur<g ref="char:EOLhyphen"/>chasors to be unacquainted with the use of, <hi>viz.</hi>
+               <list>
+                  <item>His own breach of promise<note place="margin">B. 11. <hi>and</hi> A. 12.</note>
+                  </item>
+                  <item>The fallacious Oath of his Officer, <hi>&amp;</hi>
+                     <note place="margin">B. 16. <hi>and</hi> A. 15.</note>
+                  </item>
+                  <item>The lawless force of his Souldiery.<note place="margin">A. 19.</note>
+                  </item>
+               </list>
+            </p>
+            <p>Prayeth therefore your Highness would vouchsafe to descend to a further consideration of this business, our oppression being unpara<g ref="char:EOLhyphen"/>lell'd by President, &amp; unrelieveable otherwise than by your Highness, Council, or Parliament; since the benefit of the forfeiture (if any be adjudg'd committed) not onely of this Lease, but of thousands more in the same condition, belongeth onely to your Highness,</p>
+            <closer>
+               <signed>To whose pleasure we Humbly submit, and for your prosperity<lb/> shall pray, BASSET JONES.</signed>
+               <date>Wednesday the <hi>22</hi> of <hi>March 1653.</hi>
+               </date>
+            </closer>
+            <postscript>
+               <p>IT is his Highness pleasure that Col. <hi>Jones</hi> be acquainted with this Petition, and that he give his answer thereunto in writing.</p>
+               <closer>
+                  <signed>J. Sadler.</signed>
+               </closer>
+            </postscript>
+         </div>
+         <div type="reply_to_petition">
+            <pb n="2" facs="tcp:167921:3"/>
+            <head>The answer of Col. <hi>Philip Jones</hi> to the said Petition, re<g ref="char:EOLhyphen"/>ceived <hi>April 25.</hi>
+            </head>
+            <p>IN obedience to your Highness Command, I Humbly return this an<g ref="char:EOLhyphen"/>swer to Mr. <hi>Bassett Jones</hi> his Petition.</p>
+            <p>That notwithstanding his confidence in the said Petition to your Highness, I still affirm that I have taken no other course to obtain my right, than what was allowed and used by other purchases: And for a Testimony thereof I have put into Mr. <hi>Saddlers</hi> hands the whole proceedings from the beginning of that cause to the final order there<g ref="char:EOLhyphen"/>in, and desire nothing but the fruit of those legal proceedings.</p>
+            <p>And do humbly deny the using of the least force of Souldiers by me, or my direction, or privity, or any other extraordinary Course whatsoever. But that being here in <hi>London</hi> I sent the Orders obtained from the Committee of Obstruction in the cause to the Countrey to be put in execution according to the Contents thereof in the man<g ref="char:EOLhyphen"/>ner therein prescribed: And if there have been any proceedings there<g ref="char:EOLhyphen"/>upon beyond their Contents (as I believe there have not) Mr. <hi>Jones</hi> might, and may yet, complain to the Committee of Obstructions, gi<g ref="char:EOLhyphen"/>ving in the paraticulars and the persons offending: And he will not, I conceive, have cause to Complain for want of redress therein.</p>
+            <p>And for his pretence of my breach of promise (which I also hum<g ref="char:EOLhyphen"/>bly deny) it was alleadged by him at that Committee, and considered by them before the final Order in the Cause.</p>
+            <p>And if any Officer of mine hath made any fallacious Oath, (which I never heard at all suggested till in this Petition) I desire no fa<g ref="char:EOLhyphen"/>vour for any such person, but that he may suffer according to the merit of his Crime. Yet if the fallacious Oath pretended was made before the Commissioners of Obstructions, I humbly conceive the Pe<g ref="char:EOLhyphen"/>titioners proper course had been to had excepted to it there, and made the fallacy of it to have appeared unto them.</p>
+            <p>And for my taking the possession of my Lands in pursuance of the Judgement &amp; Order of the said Committee (and not by weapons, or other illegal course) I hope it will be accounted justifiable and honest; and the rather if it be considered, that I did let pass above a whole year before I made my first address in the cause, all that while desiring but the reserved Rent the Petitioner mentions, and withall possessing him with the invaliditie of his Lease, and of my unwil<g ref="char:EOLhyphen"/>lingness
+<pb n="3" facs="tcp:167921:3"/>to take advantage thereof, unless forced by being dri<g ref="char:EOLhyphen"/>ven to come by my Right by a troublesome and expensive Course of Law.</p>
+            <p>This being the true state of the case, and the Petitioner having all the Courts of Justice open. I submit it, whether he hath just cause to trouble your Highness herein, or reproach me as he doth in his Petition.</p>
+            <closer>
+               <signed>Phi. Jones.</signed>
+            </closer>
+         </div>
+         <div type="reply_to_reply">
+            <head>The humble Reply of <hi>Bassett Jones,</hi> in the behalf of <hi>Richard Jones</hi> his Father, to the Answer of Col. <hi>Philip Jones,</hi> to a Petition lately presented by him to your Highness.</head>
+            <p>
+               <hi>Humbly sheweth,</hi>
+            </p>
+            <p>THat the said Answer, as he humbly conceives, is very evasive and impertinent, insisting meerly on negatives, and not at all, precisely, mentioning matter of fact; which he likewise conceives the said Col. ought to have done, as that which was the onely means and way to sa<g ref="char:EOLhyphen"/>tisfie your Highness of the truth of the complaint. Besides, this Re<g ref="char:EOLhyphen"/>plicant further saith, that somethings as to matter of fact, are there ve<g ref="char:EOLhyphen"/>ry ambigiously and imperfectly stated, and most things misrepresent<g ref="char:EOLhyphen"/>ed; as by the annexed Copies may, and shall further be made appear to your Highness, or whomsoever you shall inpower to hear the bu<g ref="char:EOLhyphen"/>siness, upon Commission granted to examine our witnesses.</p>
+            <p>What papers the said Respondent hath left in the hands of Mr. <hi>Sad<g ref="char:EOLhyphen"/>ler,</hi> this Replicant is ignorant of; as having never seen them: But doth averre and is ready to prove, That Col. <hi>Jones</hi> did take other courses to obtain, that which he termeth, his Right then were Legal, &amp; such as is not known to have been used by, or allowed to, any other Purchasers, though he in his Answer is pleased both to affirm and de<g ref="char:EOLhyphen"/>ny the same.</p>
+            <p>And that this may the better be made to appear to your Highness, This Replicant shall now lay open all those particulars which the said Col. endeavours to conceal; humbly referring himself to your High<g ref="char:EOLhyphen"/>ness Justice, which Col. <hi>Jones</hi> in his Answer seems so much to avoid and decline: In directing the cause should be brought back to the Committee for removing Obstructions, where he knows this Repli<g ref="char:EOLhyphen"/>cant
+<pb n="6" facs="tcp:167921:4"/>is not relieveable; It having been by them already declared that neither the Lease nor the Promise is there Cognoizable.</p>
+            <div type="history_of_case">
+               <head>The Case.</head>
+               <p>The Replicants Father <hi>Richard Jones</hi> had a Lease bearing date 1<seg rend="sup">o</seg>. <hi>Carol.</hi> for 99 years (if three lives should last so long) granted unto him at the reserved Rent of 3 <hi>l</hi> and two Capons yearly (valued in the Survey upon improvement at 13 <hi>l.</hi>—10 s. <hi>per annum</hi>) by <hi>Edward</hi> Earle of <hi>Worcester,</hi>
+                  <note place="margin">Fol. <hi>10.</hi>
+                  </note> of a Messuage and certain Lands within the man<g ref="char:EOLhyphen"/>nour of <hi>Wrinston</hi> and <hi>Michaelston,</hi> which he accordingly enjoyed un<g ref="char:EOLhyphen"/>till the estate of the said Earle was to be sold for the respective Tre<g ref="char:EOLhyphen"/>sons of <hi>Henry</hi> late Earle, and <hi>Ed.</hi> now Earle of <hi>Worcester.</hi>
+               </p>
+               <p>This Lease was returned in the Survey to <hi>Drury-House,</hi> and a Let<g ref="char:EOLhyphen"/>ter of Attorney for preemption of the states interest therein given (and at the Committee lodg'd<note n="*" place="margin">Fol. <hi>11.</hi>
+                  </note> in time) to Mr. <hi>Patrick Boyl.</hi>
+               </p>
+               <p>But soon after Col. <hi>Jones, inter alia,</hi> contracting for the former Mannor (though before the time that by the Act they were saleable in regard of the right of preemption reserved to the Tennants) The Trustees took this preemption into further consideration,<note place="margin">See <hi>A. 9.</hi> and <hi>A. 10.</hi> with the Act, in pag. <hi>1381.</hi>
+                  </note> and there<g ref="char:EOLhyphen"/>upon suspended the ensealing of the Col. Conveyance, in regard the Rent duely claimed by the said Letter of preemption was involv'd therein.</p>
+               <p>Whereupon, Col. <hi>Jones</hi> made a<note n="*" place="margin">B. 12. &amp; A. 12.</note> promise unto the Trustees, &amp; the Attourney of the said <hi>Richard,</hi> that he would convey unto the said <hi>Richard</hi> the said reserved Rent, at a reasonable and usual rate; as by the annexed Certificate and Affidavit doth appear.</p>
+               <p>On consideration whereof, the said Conveyance was signed. But afterwards, the said Attorney repairing therefore with a Letter from the said Trustees to the said Col. he utterly denied his said promise, and the<note n="*" place="margin">B. 12.</note> performance thereof.</p>
+               <p>Upon this, the said <hi>Richard</hi> did by his said Atturney repair to the said Committee at <hi>Worcester-House,</hi> praying that they would by some means obtain unto him from the said Col. the performance of his promise, as aforesaid.</p>
+               <p>But to cross those proceedings, the said Col. procured a Summons from that Committee requiring the said <hi>Richard</hi> to appear and shew cause why he did not either pay him Rent,<note n="*" place="margin">A. 12.</note> or yield Possession.</p>
+               <p>In Obedience to which, the Replicant repaired to <hi>London,</hi> prepared to plead to the Legality of the Colonels Conveyance otherwise, then
+<pb n="7" facs="tcp:167921:4"/>as ratefied by the Replicants acceptance of his promise. But finding nothing<note n="*" place="margin">
+                     <hi>See fol.</hi> 13 &amp; A. 14.</note> objected to him, and after attendance on the business some<g ref="char:EOLhyphen"/>time in the Town, he returned home.</p>
+               <p>In the Replicants absence, the said Colonel, or his Agents by his directions, did renue the complaint, and, without the knowledge of the Replicant, (though no more than the said reserved Rent can be pre<g ref="char:EOLhyphen"/>tended to be<note n="*" place="margin">B. 10. B 13.</note> paid for) obtained an Order, by which the Replicants Father was required to pay Rent,* AND deliver Possession.</p>
+               <p>So that whereas the words in the Order of Summons were, <hi>Or Pos<g ref="char:EOLhyphen"/>session,</hi> the Order thereupon obtained by surprize saith, <hi>And Posses<g ref="char:EOLhyphen"/>sion.</hi> A thing which (as the Replicant humbly conceiveth) was clearly out of the power of the said Committee to grant, otherwise than as an Atturnment for the present, and Possession as to the reversion: Since the Right and interest of the said <hi>Richard</hi> in Law was confirm<g ref="char:EOLhyphen"/>ed by the Act of Sale, as <hi>pag.</hi> 1380. of that Act explicating, <hi>pag.</hi> 1375. doth manifest.</p>
+               <p>Yet after some proceedings to and fro, which through the distance of the Replicants abode could not be so well managed, Colonel <hi>Jones</hi> obtained a confirmation of the said Order, and Authorized<note n="*" place="margin">Fol. <hi>14.</hi> Fol. <hi>15.</hi>
+                  </note> one <hi>Charls Jones</hi> his Officer to serve it upon the said <hi>Richard Jones;</hi> who proffering the Rent and an acquittance to be signed by the said <hi>Charls,</hi> was by him the said <hi>Charls</hi> advised to keep his Money untill the draught of the acquittance should be considered of by Colonel <hi>Jones,</hi> (who was then in the<note n="*" place="margin">B. 15. <hi>compa<g ref="char:EOLhyphen"/>red with</hi> A. 16.</note> Countrey and not at LONDON as in his Answer he is pleased to set forth.)</p>
+               <p>Within a few dayes after, the said <hi>Charls</hi> returned from the said Colonel, and accepting of all the Rent that was due to that 26. day of <hi>July,</hi> gave the said <hi>Richard</hi> an<note n="*" place="margin">Fol. <hi>15.</hi>
+                  </note> acquittance indorsed up<g ref="char:EOLhyphen"/>on that Order annexed. It being <hi>verbatim</hi> the same with the draught advised of by the said Colonel. He also took<note n="*" place="margin">A. 20.</note> possession of the said Lands as in reversion according to the usual Ceremonies, themselves then<note n="*" place="margin">See his answer to line <hi>31.</hi> and <hi>B. 20.</hi> Fol. <hi>16.</hi>
+                  </note> pretending to understand it no otherwise.</p>
+               <p>Nevertheless in <hi>October</hi> following the said <hi>Charls</hi> came up to LONDON, where the said Colonel then resided, and before a Mr. of <hi>Chancery</hi> made the Affidavit* annexed. By which he doth not onely conceal the proceedings had pass'd in the <hi>intrim,</hi> and the satis<g ref="char:EOLhyphen"/>factiont which under his own hand he had acknowledged; But also affirms the said <hi>Richard</hi> had denied the possession demanded; when indeed he had yielded it up<note n="*" place="margin">A 20.</note> according to his Demands; and sent
+<pb n="8" facs="tcp:167921:5"/>his servant along to shew him the Lands, that he might accomplish the Ceremonies of Possession thereon as afore said.</p>
+               <p>Upon this Affidavit, The Committee (before we could have<note n="*" place="margin">A. 17. <hi>compa. with</hi> A. 16.</note> no<g ref="char:EOLhyphen"/>tice thereof, and consequently could direct our Attorney to plead to it) Ordered the said <hi>Richard</hi> to quit the Possession. And its ob<g ref="char:EOLhyphen"/>servable, that in this their final Order, the Committee was pleased to explain their precedent Order by the words<note n="*" place="margin">B. 17.</note>
+                  <hi>Possessioni accord<g ref="char:EOLhyphen"/>ing to the purchase,</hi> which reaching onely to the reserved Rent and<note n="*" place="margin">C. 10.</note> power of set and Let, as the Annexed doth Manifest, could without apparent injury to the<note n="*" place="margin">See the Petition.</note> Common-wealth as well as Ten<g ref="char:EOLhyphen"/>nant, be extended no further; unless it were in case of non-pay<g ref="char:EOLhyphen"/>ment, which the said <hi>Richard</hi> cannot be charged with. As <hi>Philip David</hi> the Bayliff, and the said <hi>Charls Jones</hi> (notwithstanding his Af<g ref="char:EOLhyphen"/>fidavit) cannot upon Oath deny.</p>
+               <p>Besides, the said Order did provide<note n="*" place="margin">C. 18.</note> fourteen dayes notice to be given to the said <hi>Richard,</hi> before the Sheriff should be called to as<g ref="char:EOLhyphen"/>sistance.</p>
+               <p>But without any notice at all given to the said <hi>Richard,</hi> or any related to him,<note n="*" place="margin">A. 19.</note> Mr. <hi>Evan Lewis</hi> late Lieutenant under the said Co<g ref="char:EOLhyphen"/>lonel, now his brother in Law, did on the fourteenth of <hi>December</hi> last, come with the Deputy-Sherieff, and Souldiers from the Garrison of <hi>Caerdiff,</hi> and entered into the house of the said <hi>Rhichard</hi>'s Tennant, putting in the Souldiers to keep possession for that day, and the night following, untill at last he constrained the Tennant to sign a Bond to keep Possession for Colonel <hi>Jones;</hi> whereby the said <hi>Richard</hi> was dispossessed of all his right in the said Lease, which the said Colonel doth detain and enjoy to this day.</p>
+               <p>Thus hath your Replicant layed open before your Highness the whole Process and Course of the Frauds, Injuries &amp; Oppressions used by the said Colonel towards his aged and distressed Father, which he was forced particularly to lay down, because they have been con<g ref="char:EOLhyphen"/>tinued with so much cunning and circumvention, that it were impos<g ref="char:EOLhyphen"/>sible otherwise to make them out. For,</p>
+               <p n="1">1. A promise made in the presence of, and to the Trustees (who were unwilling to parcel out a thing of so small a value out of a great Conveyance) is manifestly violated.</p>
+               <p n="2">2. Circumvention and surprizeall in proceedings are made use of.</p>
+               <p n="3">3. A Fallacious Oath, not to say Perjury and that as may proba<g ref="char:EOLhyphen"/>bly be supposed by Combination.</p>
+               <p n="4">
+                  <pb n="9" facs="tcp:167921:5"/> 4. Open and illegal force, and a forcible detention of an illegal possession.</p>
+               <p>May it therefore please your Highness to consider all this; and out of your gracious and righteous judgement, to order the whole mat<g ref="char:EOLhyphen"/>ter to be (if that be deemed necessary) further scanned by some ho<g ref="char:EOLhyphen"/>nest and impartial men, who may be inpowered to examine witnesses on both sides, and report the same to your Highness. And not turn your Replicant over to the Law, where the last Order of the Com<g ref="char:EOLhyphen"/>mittee of Obstructions rendered him unrelieveable, neither back a<g ref="char:EOLhyphen"/>gain to <hi>Worcester-House,</hi> your Replicant having had such wofull ex<g ref="char:EOLhyphen"/>perience<note n="*" place="margin">A. 12. <hi>comp<g ref="char:EOLhyphen"/>red with</hi> A. 13.</note> of the power and influence of the said Colonel there. That necessitates him humbly to implore your acceptance of this his appeal to your Highness, who, as you are Lord <hi>Protector</hi> of the three Nations, so are you the most proper Chancellour between your Coun<g ref="char:EOLhyphen"/>sellour and a Subject.</p>
+               <closer>
+                  <signed>Basset Jones.</signed>
+               </closer>
+               <postscript>
+                  <p>Hereafter follow the proofs which the Replicant hath at pre<g ref="char:EOLhyphen"/>sent for the respective assertions in his Petition, and reply suggested.</p>
+               </postscript>
+            </div>
+            <div type="certificate_of_purchase">
+               <head>The Trustees Certificate of <hi>Colonel Jones</hi> his Purchase.</head>
+               <p>THe Mannour of <hi>Wrinston,</hi> in the County of <hi>Glamorgan,</hi> late parcel of the Estate of <hi>Edward</hi> Earle of <hi>Worcester</hi> was sold on the* 13 day of <hi>February</hi> 1651. unto <hi>Philip Jones</hi> Esquire and others on the behalf of the Brigade of Colonel <hi>Horton,</hi> for, and during the lease of the said Earle, without impeachment of waste, with power to make Leases, 21 years, or any other Term determinable upon one, two or three Leases. In which manner <hi>Richard Jones</hi> holds a Message and certain Lands by Lease from the said Earle, dated the 22 of <hi>Octo<g ref="char:EOLhyphen"/>ber,</hi> in the first of King <hi>Charles</hi> of the yearly value of 13 <hi>l.</hi> 10 <hi>s.</hi> under the yearly reserved Rent of 3 <hi>l.</hi> and two Capons, for the re<g ref="char:EOLhyphen"/>mainder of a Term of 99 years, determinable upon the lives of <hi>Rich. Jones, Basset Jones,</hi> and <hi>Edward Jones,</hi> all certified in the survey of the said Mannour to be living.</p>
+               <p>And the said <hi>Philip Iones</hi> and others, onely<note n="*" place="margin">B.</note> purchased the said
+<pb n="10" facs="tcp:167921:6"/>reserved yearly Rent of 3 <hi>l.</hi> and two Capons, with<note n="*" place="margin">C.</note> power to make Leases as aforesaid.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>Henry Sealy.</hi>
+                        </item>
+                        <item>
+                           <hi>Ed. Tooks.</hi>
+                        </item>
+                        <item>
+                           <hi>W. Lisle.</hi>
+                        </item>
+                        <item>
+                           <hi>Sam. Gookin.</hi>
+                        </item>
+                        <item>
+                           <hi>Will. Robinson.</hi>
+                        </item>
+                     </list>
+                  </signed>
+                  <signed>John Smith Clerk.</signed>
+               </closer>
+            </div>
+            <div type="document">
+               <head>The Trustees Certificate of the Promise.</head>
+               <head>To the Honourable the Commissioners for the re<g ref="char:EOLhyphen"/>moving of Obstructions in the sale of Delinquents Estates. The Certificate of the Trustees for the sale of the said Estates.</head>
+               <p>IN pursuance of your Order of the 19 of <hi>Iune</hi> 1652. whereby the said Trustees are desired to state the matter of Fact upon the Pe<g ref="char:EOLhyphen"/>tition of <hi>Richard Iones</hi> Esq in reference to the purchase of a Tene<g ref="char:EOLhyphen"/>ment of Land in the Petition mentioned, being parcel of the Man<g ref="char:EOLhyphen"/>nour of <hi>Michael Stone,</hi> in the County of <hi>Glamorgan,</hi> and returned by Survey the<note n="*" place="margin">A.</note> 4 day of <hi>Febr.</hi> 1651. to be late parcel of the Estate of <hi>Edward</hi> Earle of <hi>Worcester.</hi> The said Trustees certifie that the in<g ref="char:EOLhyphen"/>terest of the said Mr. <hi>Iones</hi> of and unto the Tenement in the Petition mentioned was returned in the said Survey, and the pre-emption thereupon duely claimed as in the Petition is mentioned.</p>
+               <p>That soon after the return of the said Survey, there being several Competitors for the said Mannour, The said Trustees exposed the same unto sale by the box, and the purchase thereof fell to Colonel <hi>Philip Iones</hi> Esq as being the highest bidder for the said Mannour.</p>
+               <p>That before the Conveyance of the premisses was Sealed, the pre<g ref="char:EOLhyphen"/>emption of the said Tenement falling again into consideration.</p>
+               <p>The said Trustees thought it more convenient, that the Petitio<g ref="char:EOLhyphen"/>ner should accept of a Conveyance of the said Tenement from the said Colonel <hi>Iones,</hi> (at a reasonable rate) than to pass a single Con<g ref="char:EOLhyphen"/>veyance of so small a thing themselves unto the said Mr. <hi>Iones,</hi> which being propounded by the said Trustees unto the said Colonel <hi>Iones,</hi> and Dr. <hi>Basset Iones</hi> (who then dealt for the Petitioner) both the said parties after some debate attended thereunto, and the said Colo<g ref="char:EOLhyphen"/>nel
+<pb n="11" facs="tcp:167921:6"/>
+                  <hi>Iones</hi>
+                  <note n="*" place="margin">B.</note> promised to Seal a Conveyance of the said Tenement ac<g ref="char:EOLhyphen"/>cordingly.</p>
+               <p>That shortly after the said Trustees Sealed a Conveyance of the whole Mannour unto the said Col. <hi>Iones.</hi> But what hath since past between the said Col. and the Petitioner, the said Trustees have no certain knowledge of. All which we leave unto your grave conside<g ref="char:EOLhyphen"/>rations.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>Will. Skimmer.</hi>
+                        </item>
+                        <item>
+                           <hi>Math. Valentine.</hi>
+                        </item>
+                        <item>
+                           <hi>Henry Sealy.</hi>
+                        </item>
+                        <item>
+                           <hi>Will. Lisle.</hi>
+                        </item>
+                        <item>
+                           <hi>Arthur Samuel.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+               <closer>Cop. Exam.
+<signed>Ed. Noel.</signed>
+               </closer>
+            </div>
+            <div type="affidavit">
+               <head>
+                  <hi>Mr. Boils</hi> Affidavit of the Promise.</head>
+               <p>
+                  <hi>PAtrick Boil</hi> of <hi>Clements Dane,</hi> in the County of <hi>Midlesex</hi> Gent. maketh Oath that he was imployed as Agent by, and for <hi>Richard Iones</hi> of <hi>Lamihangle</hi> in the County of <hi>Glamorgan</hi> Esquire, to solli<g ref="char:EOLhyphen"/>cite and purchase to the use of the said <hi>Iones,</hi> by way of pre-emption, according to the directions of the first Act of Parliament for sale of Delinquents Lands, the States interest in a Tenement and certain parcels of Lands in the possession of the said Mr. <hi>Iones,</hi> by Lease from the late Earle of <hi>Worcester</hi> at the yearly Rent of 3 <hi>l.</hi> and two Capons. And that the said Deponent did put in his desire before the Trustees at <hi>Drury House,</hi> to purchase the same within the time limited by the Act, and that the said Trustees thereupon ordered him a day of Con<g ref="char:EOLhyphen"/>tract accordingly. Yet notwithstanding Colonel <hi>Philip Iones</hi> pur<g ref="char:EOLhyphen"/>chased this Rent as involved within the Mannour of <hi>Wrinston,</hi> at a publick Box, of which this Deponent being fore-advertised, he re<g ref="char:EOLhyphen"/>minded the said Trustees of the said pre-emption, who thereupon answered that they did not, nor could effectually expose any more to the Box than the said Act Authorised them, but it did not pre-empti<g ref="char:EOLhyphen"/>ons untill 30 dayes were expired: Therefore they said they needed not except that out, being something of trouble so to do. And they further said, they would take care the Colonel should not pass his conveyance untill this pre-emption were ratified to the Deponent. And accordingly the conveyance was stopped, untill afterwards the said Colonel <hi>Iones,</hi> and this Deponent being met before the Trustees. It was there then agreed, that this stop of his conveyance should be recalled, and that this Deponent should accept of a conveyance of
+<pb n="12" facs="tcp:167921:7"/>the premisses from Colonel <hi>Iones</hi> upon the Deponents concession, to which request he the said Colonel <hi>Iones</hi> there<note n="*" place="margin">A.</note>
+                  <hi>Promised,</hi> the Tru<g ref="char:EOLhyphen"/>stees and the said Deponent, that immediately after their Sealing of his conveyance, he would upon demand reconvey the premisses unto the said Deponent, or whom else he the said Deponent should think fitting; and that at such usual rates as such Estates were sold by the said Trustees, whereupon the Deponent gave way to the ensealing of the said Colonels conveyance.</p>
+               <p>But afterwards when the said Deponent did accordingly repair un<g ref="char:EOLhyphen"/>to him, and that fortified with a Letter from the Trustees, he the said Colonel <hi>Iones</hi> absolutely denied, and refused the<note n="*" place="margin">B.</note> performance of his said promise.</p>
+               <closer>
+                  <dateline>
+                     <hi>Sworn</hi>
+                     <date>May 10. 1654.</date>
+                  </dateline>
+                  <signed>P. Boil.</signed>
+                  <signed>Tho. Benet.</signed>
+               </closer>
+            </div>
+            <div type="document">
+               <head>The Order of Summons.</head>
+               <head>By the Commissioners for removing of Obstructions in the sale of Delinquents Lands and Estates. <hi>May the 11.</hi>
+               </head>
+               <p>WHereas Col. <hi>John Okey</hi> and the rest of the Officers of Colo<g ref="char:EOLhyphen"/>nel <hi>Hortons</hi> Brigade in their Petition read this day set forth, That the Trustees for sale of the said Lands in pursuance of an Order of Parliament, conveyed unto the Petitioners certain Lands and He<g ref="char:EOLhyphen"/>reditaments in the County of <hi>Glamorgan,</hi> and that several parcels thereof are part of the Lordship of <hi>Wrinston,</hi> &amp; are in the possession of <hi>Rich. Jones</hi> of the County, Esq who refuseth to pay the Rents due for the said Lands; OR deliver the Possession thereof unto the Pe<g ref="char:EOLhyphen"/>titioners praying Summons, <hi>&amp;c.</hi>
+               </p>
+               <p>Ordered, that the said <hi>Rich. Jones,</hi> be hereby summoned to appear before us, or some other on his behalf, at <hi>Worcester-House,</hi> in the <hi>Strand, Middlesex,</hi> upon <hi>Wednesday</hi> the 22 of <hi>Iune</hi> next, having 21 dayes notice before of this Order, to shew cause wherefore he refuseth to pay the Rent due by him for the premisses.<note n="*" place="margin">A. <hi>See</hi> 13. A.</note> OR deliver the Pos<g ref="char:EOLhyphen"/>session thereof to the Petitioner according to their purchase; And hereof he is not to fail.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>Henry Pit.</hi>
+                        </item>
+                        <item>
+                           <hi>Iohn Berners.</hi>
+                        </item>
+                        <item>
+                           <hi>Iohn Parker.</hi>
+                        </item>
+                        <item>
+                           <hi>Fran. Musseden.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="document">
+               <pb n="13" facs="tcp:167921:7"/>
+               <head>The Order thereupon obtained by surprise, and falsely citing the said Summons.</head>
+               <head>By the Commissioners, for the removing of Obstru<g ref="char:EOLhyphen"/>ctions in the sale of Delinquents Lands and Estates.</head>
+               <opener>
+                  <dateline>
+                     <date>June 29.</date>
+                  </dateline>
+               </opener>
+               <p>WHereas Col. <hi>Iohn Okey,</hi> and the rest of the Officers of Col. <hi>Hor<g ref="char:EOLhyphen"/>tons</hi> Brigade having in their Petition alleadged, that the Tru<g ref="char:EOLhyphen"/>stees for the sale of the said Lands, have in pursuance of an Order of Parliament conveyed unto the Petitioner certain Lands and Heredi<g ref="char:EOLhyphen"/>taments in the County of <hi>Glamorgan:</hi> And that several parcels thereof are part of the Lordship of <hi>Wrinston,</hi> &amp; are in the possession of <hi>Rich. Iones</hi> in the said County, Esq who refuseth to pay the Rents due for the said Lands, and deliver up the possession thereof unto the Peti<g ref="char:EOLhyphen"/>tioners praying Summons.</p>
+               <p>There issued forth thereupon, the 11 of <hi>May</hi> last, an Order of Sum<g ref="char:EOLhyphen"/>mons for the said <hi>Richard Iones</hi> to appear before us, or some other in his behalf, to shew cause wherefore he refuseth to pay the said Rents due by him for the premises unto the Petitioners.<note n="*" place="margin">A. <hi>See</hi> A. 12.</note> And deliver up the possession thereof to the said Petitioners according to their purchase. In pursuance thereof, Counsel onely appeared for the said <hi>Rich. Iones,</hi> 22 of <hi>Iune</hi> last, in the cause; But did not<note n="*" place="margin">The bu<g ref="char:EOLhyphen"/>siness was not at all called that day. <hi>B. I.</hi>
+                  </note> offer any thing for cause herein.</p>
+               <p>And whereas it was this day alleadged on the behalf of the said Pe<g ref="char:EOLhyphen"/>titioner in the presence of Counsel for the said <hi>Rich. Jones,</hi> that the said <hi>Rich. Jones,</hi> nor any for him, hath shewed cause wherefore he should not pay the Rents of the premisses unto the Petitioners, and deliver up the possession of the premisses unto them; And the said Counsel for the said <hi>Rich. Iones</hi> having not any thing to offer for such cause, Ordered thereupon that the said <hi>Rich. Iones</hi> do within 14 dayes next after sight or notice of this Order, pay unto the purchasers the Rents by him due for the Lands in his possession as aforesaid<note n="*" place="margin">B.</note> and de<g ref="char:EOLhyphen"/>liver up the possession thereof unto the said purchasers, or to whom they shall appoint to receive the same; And in case of fail herein to be sent for in custody to answer his contempt in the premisses.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>
+                           <hi>Iohn Parker.</hi>
+                        </item>
+                        <item>
+                           <hi>William Roberts.</hi>
+                        </item>
+                        <item>
+                           <hi>Robert Aldwoorth.</hi>
+                        </item>
+                        <item>
+                           <hi>Fran. Mussenden.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+            </div>
+            <div type="document">
+               <pb n="14" facs="tcp:167921:8"/>
+               <head>The Order confirming it</head>
+               <head>By the Committee for removing of Obstru<g ref="char:EOLhyphen"/>ctions in the sale of Delinquents Lands and Estate.</head>
+               <opener>
+                  <dateline>
+                     <date>July the 12. 1653.</date>
+                  </dateline>
+               </opener>
+               <p>WHereas in the cause upon the Petition of Col. <hi>John Okey</hi> and the rest of the Officers of Colonel <hi>Hortons</hi> Brigade, and complaint therein against <hi>Richard Iones</hi> Esq for refusing to pay the Rents, and for to deliver the possession of certain parcels of Lands, part of the Lordship of <hi>Wrinston</hi> purchased by them. It was the 29 of <hi>Iune</hi> last Ordered that the said <hi>Rich. Iones</hi> should within 14 dayes next after sight, or notice of this Order pay unto the said purchasers the Rents by him due for the Lands in his possession as aforesaid by the said Petitio<g ref="char:EOLhyphen"/>ners, and deliver unto them the possession of the said Lands in que<g ref="char:EOLhyphen"/>stion; and in case of fail therein to be sent for in custody to answer his contempt in the premisses.</p>
+               <p>And whereas it was upon the 6 of <hi>July</hi> instant upon allegation made by the Counsel on behalf of the said <hi>Richard Jones,</hi> that the said Orders of the 29 of <hi>June</hi> was obtained in his<note n="*" place="margin">A.</note> absence, whereby cause could not be shewn wherefore the said Rents and the possession of the Lands should not be delivered up unto the said purchasers; Or<g ref="char:EOLhyphen"/>dered that the execution of the said Order of the 29 of <hi>June</hi> made in this case should be suspended if it were not then executed.</p>
+               <p>And whereas Counsels, or Solicitors on both sides appeared this day, and the Certificate made by the Trustees for sale of the said Lands upon the Petition of the said <hi>Rich. Jones</hi> being read, and Counsel for him heard what he had to offer for cause as aforesaid, and wherefore the said Order of the 29 of <hi>June</hi> last should not stand, and the said Order of the 6 of <hi>July</hi> made null.</p>
+               <p>It was thereupon ordered. The said Order of the 6 of <hi>Iuly</hi> afore<g ref="char:EOLhyphen"/>said for staying of the said Order of the 29 of <hi>Iune</hi> aforesaid, be here<g ref="char:EOLhyphen"/>by made null and void. And that the said Order of the 29 of <hi>Iune</hi> aforesaid, do stand to all intents and purposes thereupon.</p>
+               <closer>
+                  <signed>
+                     <list>
+                        <item>R. <hi>Aldwoorth.</hi>
+                        </item>
+                        <item>
+                           <hi>Fran. Mussenden.</hi>
+                        </item>
+                        <item>
+                           <hi>Iohn Parker.</hi>
+                        </item>
+                     </list>
+                  </signed>
+               </closer>
+               <closer>
+                  <signed>Henry Pit.</signed>
+               </closer>
+            </div>
+            <div type="document">
+               <pb n="15" facs="tcp:167921:8"/>
+               <head>
+                  <hi>Charles Jone</hi>'s Acquittance indorsed on the Original of the said Order.</head>
+               <p>KNow all men, that I <hi>Charles Iones</hi> of <hi>Walston</hi> in the Parish of <hi>Wenvoe</hi> and the County of <hi>Glamorgan</hi> have received of the within named <hi>Richard Iones</hi> Esq (in his<note n="*" place="margin">A.</note> obedience to this Order) the full sum of 4 <hi>l.</hi> twelve shill. and 8. being the whole Arrear both for Rent and duties due upon the said <hi>Richard Iones,</hi> for the Lands mentioned in the said Order from his last payment of Rent to the then Bailiff, untill this instant 26 of <hi>Iuly;</hi> witness my hand hereunto subscribed.</p>
+               <closer>
+                  <signed>Charles Iones.</signed>
+               </closer>
+            </div>
+            <div type="document">
+               <head>The Authority given by Colonel <hi>Jones</hi> under his hand and Seal unto the said <hi>Charles Jones,</hi> and by him deli<g ref="char:EOLhyphen"/>vered up unto the said <hi>Richard Jones.</hi>
+               </head>
+               <p>IN pursuance of an Order of the 29 of <hi>Iune</hi> last, and another con<g ref="char:EOLhyphen"/>firming it of the 12 of <hi>Iuly</hi> last, both from the Commissioners for removing of Obstructions in the sale of Delinquents Estates, I do, by virtue of power derived unto me from Col. <hi>Iohn Okey,</hi> and the rest of the Officers of Col. <hi>Hortons</hi> Brigade, intrust and appoint Mr. <hi>Charls Iones</hi> of <hi>Walston,</hi> in the County of <hi>Glamorgan</hi> to demand and receive the Rents and possession of the Lands mentioned in the said Orders according<note n="*" place="margin">B.</note> to the Tenor thereof.</p>
+               <closer>
+                  <dateline>Given under my hand and Seal <date>the 21 of <hi>Iuly</hi> 1653.</date>
+                  </dateline>
+                  <signed>Phi. Iones.</signed>
+               </closer>
+               <postscript>
+                  <p>Mark the date of this, and compare it with the time the said <hi>Charles</hi> sweareth he came to the said <hi>Richard</hi>'s house; and then judge how the Col. could be then at <hi>London,</hi> as in his answer he af<g ref="char:EOLhyphen"/>firmeth</p>
+                  <closer>
+                     <signed>B. I.</signed>
+                  </closer>
+               </postscript>
+            </div>
+            <div type="affidavit">
+               <head>Mr. <hi>Charles Jones</hi> his Affidavit.</head>
+               <p>
+                  <hi>CHarles Iones</hi> of <hi>Wenvoe</hi> in the County of <hi>Glamorgan</hi> Gentleman maketh Oath, That he together with one <hi>Morgan Penry</hi> repair<g ref="char:EOLhyphen"/>ed on the<note n="*" place="margin">A.</note> 22 of <hi>Iuly</hi> last unto the house of <hi>Richard Iones</hi> Esq for to
+<pb n="16" facs="tcp:167921:9"/>serve him with two Orders from the Honorable the Committee for removing Obstructions in the sale of Delinquents Estates; The one bearing date the 29 of <hi>June</hi> last, and ordering that the said <hi>Rich. Jones</hi> should within 14 dayes next after sight, or notice thereof pay unto Col. <hi>Okey</hi> and the other purchasers the Rents by him due for their Lands in his possession, and also deliver up the possession; And in case of failer herein to be sent for in custody to answer his contempt.</p>
+               <p>The other bearing date the 12 of <hi>July</hi> last, ordering that a certain Order for staying of the said Order of the 29 of <hi>June</hi> was thereby made void, and that that of the 29 of <hi>June</hi> aforesaid should stand to all intents and purposes; true Copies of both which Orders the De<g ref="char:EOLhyphen"/>ponent with the said <hi>Morgan Peury</hi> (not finding the said <hi>Rich. Iones</hi> at home) did there the 22 of <hi>Iuly</hi> last deliver unto the wife of the said <hi>Richard Iones.</hi> The same day the Deponent having met with the said <hi>Richard Iones,</hi> he acquainted him with the said Orders and the con<g ref="char:EOLhyphen"/>tents thereof, with the leaving of the said Copies with his wife.</p>
+               <p>And he further deposeth that, in<note n="*" place="margin">
+                     <hi>B.</hi> His ac<g ref="char:EOLhyphen"/>quittance on the Order indorsed prooveth the con<g ref="char:EOLhyphen"/>trary. <hi>I. B.</hi>
+                  </note> pursuance of the said Orders &amp; according to instructions and Authority to him given, he repaired a<g ref="char:EOLhyphen"/>gain unto the said <hi>Richard Iones,</hi> and demanded the Possession of the said Lands to the uses in the said Orders mentioned; which the said <hi>Richard Jones</hi> refused to deliver up, but still continueth in the Posses<g ref="char:EOLhyphen"/>sion, thereof notwithstanding the said Orders, and the Deponents de<g ref="char:EOLhyphen"/>mand thereupon.</p>
+               <closer>
+                  <signed>JOHN JONES.</signed>
+               </closer>
+               <closer>
+                  <dateline>
+                     <hi>Sworn</hi>
+                     <date>the 3 <hi>day of</hi> October 1653.</date>
+                  </dateline>
+                  <signed>Io. Page.</signed>
+               </closer>
+            </div>
+            <div type="document">
+               <p>
+                  <hi>GEorge Hooper</hi> maketh Oath that he was present when the above named <hi>Charles Iones</hi> did make Oath the 3 of October of the truth of the Affidavit above written before <hi>Iohn Page,</hi> and did then, receive it, and it is not since any way altered.</p>
+               <closer>
+                  <signed>George Hooper.</signed>
+               </closer>
+               <closer>
+                  <dateline>Jur.<note n="*" place="margin">A.</note>
+                     <date>24 of October 1653.</date>
+                  </dateline>
+                  <signed>Henry Pitt.</signed>
+               </closer>
+               <closer>
+                  <hi>Cop. Ex.</hi>
+                  <signed>Edw. Noel.</signed>
+               </closer>
+            </div>
+            <div type="document">
+               <pb n="17" facs="tcp:167921:9"/>
+               <head>The Committees final Order upon the said Affidavit, <hi>October<note n="*" place="margin">A.</note> 29. 1653.</hi>
+               </head>
+               <head>By the Committee for removing Obstructions in the sale of Delinquents Lands and Estates.</head>
+               <p>WHereas in the Case upon the Petition of Col. <hi>Okey,</hi> and the rest of the Officers of Col. <hi>Horton</hi>'s Brigade, purchasers of certain Lands and Hereditaments in the County of <hi>Glamorgan,</hi> several par<g ref="char:EOLhyphen"/>cels thereof being parcel of the Lordship of <hi>Wrinston</hi> in the Tenure of <hi>Richard Jones</hi> of that County, Esq And complaint against the said <hi>Richard Jones</hi> for refusing to deliver the Possession of the said Lands, &amp; pay the Rents due unto the Petitioners<note n="*" place="margin">B.</note>
+                  <hi>according to their purchase.</hi>
+               </p>
+               <p>It was the 29 of <hi>June</hi> last Ordered, among other things, that the said <hi>Richard Jones</hi> should within 14 dayes next after sight, or notice of that Order deliver up unto the said Purchasors, or to whom they should appoint to receive the same possession of the Lands detained as aforesaid.</p>
+               <p>And whereas the 12 of <hi>July</hi> last, upon reading of an Order of the 6 of that Moneth, whereby (upon the matter then offered by Counsel for the said <hi>Richard Jones</hi>) the said Order of the 29 of <hi>June</hi> was to be suspended, if the same were not then executed. And upon hearing of Counsel, or Solicitors on both sides, It was Ordered that the said Or<g ref="char:EOLhyphen"/>der of the 6 of <hi>Iuly</hi> for staying the execution of the Order of the 29 of <hi>Iune</hi> aforesaid should be made null and void, and that the Order of 29 of <hi>Iune</hi> aforesaid should stand good to all intents and purposes therein.</p>
+               <p>And forasmuch as the said purchasors in their said Petition read this day alleadge, that the said <hi>Richard Iones</hi> hath been served with the said Orders for delivering up the possession of the premises to the said purchasors, who refuseth to yield obedience thereunto; and <hi>Charles Iones</hi> having made Oath that on the 22. of <hi>Iuly</hi> last he repaired to the house of the said <hi>Richard Iones,</hi> and left true Copies of the said Or<g ref="char:EOLhyphen"/>ders of the 29 of <hi>Iune</hi> and 12 of <hi>Iuly</hi> with the wife of the said <hi>Richard Iones;</hi> &amp; the same day met with the said <hi>Jones,</hi> &amp; acquainted him with the contents of the said Orders, &amp; with his leaving copies with his wife as aforesaid. And that in pursuance of the said Orders he repair'd again
+<pb n="18" facs="tcp:167921:10"/>to the said <hi>Richard Iones,</hi> and demanded of him the possession of the said Lands, who refused to deliver up the possession thereof; but still continueth the same notwithstanding the said Orders.</p>
+               <p>Ordered therefore that the said <hi>Richard Iones</hi> do<note n="*" place="margin">C.</note> within 14 dayes after sight or notice of this Order, deliver up unto the said purchasors (or unto whom they shall appoint to receive the same) the possession of the said Lands by him detained as aforesaid. And in case of failer herein, that then, according to an Ordinance of Parliament of the 21 of <hi>November</hi> 1648. The Sheriff of the said County of <hi>Glamorgan</hi> do forthwith repair to the said Lands and Premises detained by the said <hi>Richard Iones,</hi> &amp; all houldings under him; And the possession so cleared to deliver up unto the said purchasors, or to whom they shall appoint to return the same. And to break open Gates, Hedges, <hi>&amp;c.</hi> for clearing of the possession of the premisses. And the said Sheriff is hereby Au<g ref="char:EOLhyphen"/>thorised to commit to the next common Prison for one Moneth such person, or persons as he shall finde to resist him in the due execution of this Warrant.</p>
+               <closer>Cop. Exam. <signed>Edw. Noel.</signed>
+               </closer>
+            </div>
+            <div type="document">
+               <pb n="19" facs="tcp:167921:10"/>
+               <head>To my Son <hi>Basset Jones</hi> at <hi>London.</hi>
+               </head>
+               <opener>
+                  <salute>Son,</salute>
+               </opener>
+               <p>THis is to let you know,<note place="margin">A.</note> that upon the 14 instant Mr. <hi>Evan Lewis</hi> came with the Deputy Sheriff, his man, and two Souldiers from the Castle of <hi>Cardiff;</hi> and entered into the house where <hi>Robert John</hi> lives; putting in the Souldiers to keep possession that day and the night following. So that he was constrained to seal a Bond of some great penalty unto <hi>Christopher Ienkin,</hi> with condition to hold possession thereof to the use of Colonel <hi>Iones,</hi> and not to deliver the possession unto any other, unless forced thereunto by lawfull authority.</p>
+               <p>From thence they came to the Croft by the Meadow, where they made entry, and, after Ceremonies of entry made there also, they de<g ref="char:EOLhyphen"/>parted; without shewing me any Order, or serving the House therewith onely they sent a Souldier (after their departure) to acquaint your mother (my self not being within) that they had made entry as afore<g ref="char:EOLhyphen"/>said; But did not make me privy to their authority either then or af<g ref="char:EOLhyphen"/>ter. Which is the whole truth of their proceedings therein.</p>
+               <closer>
+                  <signed>Your carefull Father<lb/>
+                     <hi>Richard Ionies.</hi>
+                  </signed>
+                  <dateline>Lanmihangel.<lb/>
+                     <date>
+                        <hi>Dcemb.</hi> 18. 1653.</date>
+                  </dateline>
+               </closer>
+            </div>
+            <div type="commentary">
+               <pb n="20" facs="tcp:167921:11"/>
+               <p>The Replicant doth not insist on this letter further then as an Ar<g ref="char:EOLhyphen"/>gument <hi>ad hominem,</hi> he being able (when impowered) to prove both the forcible entry, and the threats compelling the signing of the said Bond with full and legall testimony; and since he hath not his witnesses at hand to testifie the exercising of the demanded possession by the Colonels Officers on the 26 of <hi>Iuly</hi> last; nor can <hi>ostensively</hi> evidence the Colonels privity to the Oath, and force otherwise than by his consent to both <hi>ex post facto:</hi> He, at present, onely offers that these may be reduced to an argument leading <hi>ad impossible</hi>
+                  <note n="*" place="margin">
+                     <hi>A.</hi> Or in<g ref="char:EOLhyphen"/>commo<g ref="char:EOLhyphen"/>dum.</note> And so humbly submits.</p>
+               <p>Though this possession be not verbally cited in the acquittance, Yet, if his Officer had either forgot to demand it, or being demanded it had been denied him, whether the Deponent would not have confes<g ref="char:EOLhyphen"/>sed his forgetfullness, or testified of our surprizeal of his Papers, ra<g ref="char:EOLhyphen"/>ther than conceal the whole proceeding as he doth in his affidavit.</p>
+               <p>Also, if with concatenation of the Colonel's proceedings (as ad<g ref="char:EOLhyphen"/>juncts and effects thereof) it be observ'd how that about a moneth after his so specious acknowledgement of satisfactiont, the Deponent came to the Replicants Father with this sleeveless arrand from Colo<g ref="char:EOLhyphen"/>nel <hi>Iones, viz.</hi> That he should take his mony again; for that the Colonel<note n="*" place="margin">B</note> was now resolved to out him of the Land. (These were his undeniable words.) And then how silently this affidavit-man came to the Colo<g ref="char:EOLhyphen"/>nel to <hi>London,</hi> where, upon his deposition before a Master of Chancery (a thing<note n="*" place="margin">C.</note> denied to others) the final order was granted, and after<g ref="char:EOLhyphen"/>wards forcibly executed, without giving us the least, much less the limited time of notice thereof; thereby wholly preventing our <hi>Plea</hi> of satisfaction.<note place="margin">D.</note>
+               </p>
+               <p>VVhether Colonel <hi>Iones</hi> can then probably be thought so much a stranger to both Oath and force, as in his answer he is pleased to pretend.</p>
+            </div>
+            <div type="document">
+               <pb n="21" facs="tcp:167921:11"/>
+               <opener>
+                  <salute>May it please your Highness,</salute>
+               </opener>
+               <p>HAving thus manifested the proofs I had at present for what I al<g ref="char:EOLhyphen"/>leadged in my Petition, I attended Mr. <hi>Hatter</hi> therewith on the 19 day of <hi>May</hi> last (at his Office where I formerly had both lodg'd my Petition received Your Highness Order, and found the Colonels answer) and did for the space of three Moneths incessantly Solicit him to present it unto your Highness, untill at last being tir'd out with so much fruitless attendance I knew no other means whereby I might hope for its access then by commiting it to the Press; That so happily, it might light on some Rader so conscientious as to acquaint your Highness therewith.</p>
+               <p>And least to pick the refutation of the Colonels Answer out of my sad story should be too tedious, I have since by a short comment directed where each essential part thereof hath been evidentially re<g ref="char:EOLhyphen"/>plied to. The rest of it being, at best, but meer Paralogisms, and there<g ref="char:EOLhyphen"/>fore requiring onely a logical Demonstration that they are so, which your Highness on your review of his answer may please to observe as followeth.</p>
+               <p>
+                  <table>
+                     <row>
+                        <cell role="label">Answer.</cell>
+                        <cell role="label">Reply.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>Notwithstanding his confidence in the said Petition to your Highness I still affirm that I have taken no other course to obtain my right then what was allowed and used by other Purchasors.</hi>
+                        </cell>
+                        <cell>Although Colonel <hi>Jones</hi> his faculty hath hitherto prov'd succesfull, I shall retain my confidence it will not always prevail to captivate your Highness rea<g ref="char:EOLhyphen"/>son from discerning and judging for the truth; and that I have not suggested more in my Petition the forecited Certificates and Orders of the very Commit<g ref="char:EOLhyphen"/>tees will easily evince: Nevertheless, least the perusal of all those be too great a trouble to your Highness il'e here joyn issue with him, let him prove but that one single assertion, and I do hereby assume as to the Land in question, which he calls his Right, to be silent for ever.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>And for a Testimonie thereof I have put into Mr.</hi> Sadlers <hi>hands the whole pro<g ref="char:EOLhyphen"/>ceedings from the beginning of that cause to the final Order therein; and desire no<g ref="char:EOLhyphen"/>thing but the fruit of those legal proceed<g ref="char:EOLhyphen"/>ings.</hi>
+                        </cell>
+                        <cell>I humbly submit whether he could possibly lay down the whole proceed<g ref="char:EOLhyphen"/>ings and thereby not confute himself. However I conceive he should rather have left them in the Office with his Answer, that so I might have obtained a Copy of them in order to my Reply. But to leave his answer there on Record and for proof of its verity to urge those Papers which he had committed to Mr. <hi>Sadlers</hi> private pocket is plain<note n="*" place="margin">Petitio Princi<g ref="char:EOLhyphen"/>pii.</note> canting But I spare him; since, really, I wish him not so ill as that he should receive the fruits due to his legal proceedings.</cell>
+                     </row>
+                     <pb n="22" facs="tcp:167921:12"/>
+                     <row>
+                        <cell>
+                           <hi>And do humbly deny the using of the least sorce of Souldiers by me, or my directions, or privity, or any extraordinarie course whatsoever.</hi>
+                        </cell>
+                        <cell>What courses he took do appear out of the forecited Copies, whether they be ordinary I humbly submit; as also whether his continuing in the Possessi<g ref="char:EOLhyphen"/>on forcibly raken by his Ministers doth not render the force his own. But, that it was done by his directions, in regard it was more than I could possibly evidence, I never suggested it in my Petition, and therefore shall insist thereon no further than I have by my Argument, in <hi>Pag.</hi> 20.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>But that, being here in</hi> London <hi>I sent the Orders obtained by the Committee of Obstructions in the Cause to the Countrey, to be put in execution according to the con<g ref="char:EOLhyphen"/>tents thereof, in the manner therein pre<g ref="char:EOLhyphen"/>scrib'd; and if there have been any pro<g ref="char:EOLhyphen"/>ceedings thereupon beyond their contents (as I believe there have not) Mr.</hi> Jones <hi>might, and may yet, complain to the Com<g ref="char:EOLhyphen"/>mittee of Obstructions, giving in the par<g ref="char:EOLhyphen"/>ticulars and the persons offending; and he will not, I conceive, have cause to com<g ref="char:EOLhyphen"/>plain for want of redress therein.</hi>
+                        </cell>
+                        <cell>This is something too broad to be comprehended within the compass of a Paralogism. Yet, to be civil to him, I let it pass for a <hi>Sophisma compositionis,</hi> or <hi>a dicto secundum quid ad dictum simpli<g ref="char:EOLhyphen"/>citer.</hi> There being one, and but one, Order said to be forcibly execured; and the obtaining of that upon an Oath of an Affidavit sufficiently testifying him<g ref="char:EOLhyphen"/>self to be then in <hi>London.</hi> But, lest your Highness should discern he was in the Countrey when the two first Or<g ref="char:EOLhyphen"/>ders were served upon my Father; and that the Acquittance upon the payment of Rent was, after his peruseal thereof, signed in full acknowledgement of satis<g ref="char:EOLhyphen"/>faction, as by the said Acquittance, pag. 15 doth appear. Nor, though the Chro<g ref="char:EOLhyphen"/>nology of his own Papers, pag. 15. <hi>B.</hi> and <hi>A.</hi> do manifest the contrary, would he fain be believ'd to be in <hi>London</hi> also; to the end that this satisfaction might be thought acknowledged by the ignorance of his Officer, and not by his cunning, who well knew I should have repaired up to plead to that Order had he demand<g ref="char:EOLhyphen"/>ed any other Possession by it than an atturnment; since its penalty was but to be taken into custody. Therefore it was his wisdom rather to send his Officer, just as he was going to <hi>London,</hi> to offer us our money again; and upon our refu<g ref="char:EOLhyphen"/>sal to follow him up to swear as is cited, pag. 15. &amp; 16. And now also rather than that himself, <hi>A pious man fearing God and hating covetousness,</hi> might be suspected conscious to this, why should he not, for once, adventure to put Order in the plural number, as well as for his service &amp; advantage: AND instead of OR (as is seen pag. 13.) could be recorded by the Clerks of that Committee, to which I cannot blame him for directing your Highness to pass me over for relief (though after sentence) rather than you should descend to the scannings of this particular.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>And for his pretence of my breath of promise (which I also humbly deny) it was alleadged by him at that Committee, and considered by them before the final Order in the Cause.</hi>
+                        </cell>
+                        <cell>If his humble denial of his promise doth outweigh the Testimony of the six witnesses cited, pag. 10.11. &amp; 12. Then I further affirm that he hath not pur<g ref="char:EOLhyphen"/>chased so much as the reserved Rent on that Tenement at all. Since his pur<g ref="char:EOLhyphen"/>chase was made within nine dayes after the return of the Survey, as by pag 9. compared with pag. 10. doth appear, and whereas he, would perswade your
+<pb n="23" facs="tcp:167921:12"/>Highness to look upon it as a thing improper for your examination (for that his inference must necessarily drive at) I humble submit, the badge your Highness hath adorn'd him with being considered, whether the Committees ordering no<g ref="char:EOLhyphen"/>thing upon their consideration of his promise and he still tax'd with the breach thereof, doth not both in Justice and Honour rather invite your Highness to do it? and consequently manifest this his Argument.</cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>And if any Officer of mine hath made any fallacious Oath (which I never heard at all suggested till in this Petition) I de<g ref="char:EOLhyphen"/>sire no favour for any such person, but that he may suffer according to the merit of his Crime. Yet if the fallacious Oath pretended was made before the Committee of Obstructions, I humbly conceive the Petitioners proper course hath been to had excepted to it there, and made the fallacie of it to appear unto them.</hi>
+                        </cell>
+                        <cell>
+                           <p>Although in the close he pretends not to know where it was made, yet doth he not affirm he was ignorant of the Oath it self; but that he never heard it before suggested.</p>
+                           <p>And how could it otherwise be? since the Oath, being privately taken before a Master of Chancery in the presence onely of the Committees Messenger, was kept close in his pocket untill up<g ref="char:EOLhyphen"/>on his deposition of the truth thereof as appears pag. 16. <hi>A.</hi> the final Order was granted, before I could possibly either come, or send notice of what had past. But did he not know I look upon the Hand and not the Hatchet, I have reason to suppose, ere he would thus desert his Officer in plain field, he would consider the Analogie of it to the late Viscount <hi>Verulam</hi>'s quible to his servant <hi>Day;</hi> Of whom standing in the Pillory, his Lordship accidentally passing by, was heard to say he could then see day through a little hole, which when <hi>Day</hi> heard, he imme<g ref="char:EOLhyphen"/>diately discovered his Lordships relation to the Crime he suffered for, and so brought him to deserved shame.</p>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>And for my taking the Possession of my Lands in pursuance of the Judgement and Order of the said Committee (and not by weapons, or other illegal course) I hope it will be accounted justifiable and honest.</hi>
+                        </cell>
+                        <cell>
+                           <p>He can, during our Lease, pretend no Title to this Land, he calls his own, but an Order of the Committee grounded upon the Affidavit of his servant; which Affidavit Colonel <hi>Jones</hi> must know to be, at leastwise fallacious, &amp; which Or<g ref="char:EOLhyphen"/>der (notwithstanding his denial) I am able to prove by multiplicity of witnesses his Officers did not observe, but proceeded thereupon as is express'd pag. 19.</p>
+                           <p>Therefore since it is too hard a task for me to reduce this to any Logical So<g ref="char:EOLhyphen"/>phism, I shall onely reply that <hi>Contrariorumeadem est ratio.</hi>
+                           </p>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <hi>And the rather if it be considered that I did let pass above a whole year before I made my first address in the cause; all that while desiring but the re<g ref="char:EOLhyphen"/>served Rent the Petitioner mentions, and withall possessing him with the invalidity of his Lease, and of my unwillingness to take advantage thereof, unless forc'd by being driven to come by my Right by a trou<g ref="char:EOLhyphen"/>blesome and expensive course at Law.</hi>
+                        </cell>
+                        <cell>He cannot prove that ever we heard of his design to out us of the Land, un<g ref="char:EOLhyphen"/>till a Moneth after our payment of Rent &amp; Atturnment as aforesaid. Since when (though it cost me twice its value with my hitherto fruitless endea<g ref="char:EOLhyphen"/>vours to save it) Colonel <hi>Jones</hi> can pre<g ref="char:EOLhyphen"/>tend to have been at no more charges than for the journey of his servant to come up to swear, and for the Commit<g ref="char:EOLhyphen"/>tees Order thereupon. And as for our Lease, I positively affirm we never heard
+<pb n="24" facs="tcp:167921:13"/>the validity of it question'd untill in this his answer. Yet admit I granted him his whole assertion; I humbly conceive, the premises considered, it would ra<g ref="char:EOLhyphen"/>ther confute then corroborate the former. For, if the Land had been his own Right, why should he let pass a year without claiming it, or demanding Rent ac<g ref="char:EOLhyphen"/>cording to the value thereof if he conceived our Lease invalid, to be no better then a fair fallacie <hi>ab ignoratione Elenchi.</hi>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>
+                           <p>
+                              <hi>This being the true state of the Case, and the Petitioner having all the Courts of Justice open; I submit it whether he hath just cause to trouble your Highness, or re<g ref="char:EOLhyphen"/>proach me at he doth in his Petition.</hi>
+                           </p>
+                           <p>
+                              <hi>Phi. Jones.</hi>
+                           </p>
+                        </cell>
+                        <cell>
+                           <p>Let him prove his supposition and I easily grant his inference. But how a Case may be stated by Negatives I un<g ref="char:EOLhyphen"/>derstand not, more then how the Pa<g ref="char:EOLhyphen"/>pers in Mr. <hi>Sadlers</hi> pocket can, while they remain there be a Testimony of his assertion to your Highness; or what should induce him to present this to your Highness as the true state of the Case, and other private Papers to Mr. <hi>Sad<g ref="char:EOLhyphen"/>ler;</hi> unless, upon consideration of the Gentlemans breeding, it may be pardona<g ref="char:EOLhyphen"/>ble to suppose; he might conceive it manners to reserve his verities for M. <hi>Sad<g ref="char:EOLhyphen"/>lers</hi> reading. However, My Lord, for my part, as to the truth of a Case I am so nearly related to, I shall wholly refer my self to my proofs, and your Highness judgement thereupon; which I hope Col. <hi>Jones</hi> shall not be able to diswade you from affording me if I tell you, The whole Politicks record not a more excellent reason for placing the Supream power in one single person, than that thereby the people may have a place of appeal from the insolencies of State-Ministers.</p>
+                           <p>Lastly, whereas he tells your Highness I reproach him in my Petition: I also submit it whether <hi>Phi. Jones</hi> by such courses doth not rather reproach at least<g ref="char:EOLhyphen"/>wise the Colonel and the Counsellor. Nevertheless, my Lord, I avow it really, were this my own Case, I would rather loose the Land than publish thus much of a person so grac'd by your Highness.</p>
+                        </cell>
+                     </row>
+                  </table>
+               </p>
+               <p>But while I live seeing my aged Father so unworthily divested of his own un<g ref="char:EOLhyphen"/>der the colour of Justice, if I cease not to beg but your Justice, I hope so far your Highness will be pleased to pardon the importunity of</p>
+               <closer>
+                  <salute>My Lord</salute>
+                  <lb/>
+                  <signed>Your very humble<lb/> servant<lb/>
+                     <hi>Bassett Jones.</hi>
+                  </signed>
+                  <dateline>
+                     <hi>From my lodging near the<lb/> white-hart Post-house<lb/> by</hi> Charing Cross.<lb/>
+                     <date>
+                        <hi>Aug.</hi> the 21. 1654.</date>
+                  </dateline>
+               </closer>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
